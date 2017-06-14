@@ -8,4 +8,4 @@ This plugin set ITSAppUsesNonExemptEncryption to false in *-Info.plist file
 
 or 
 
-`$ cordova plugin add cordova-ios-plugin-no-export-compliance`
+`$ cordova plugin add cordova-plugin-ios-no-export-compliance`
