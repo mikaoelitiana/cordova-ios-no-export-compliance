@@ -1,16 +1,16 @@
 {
   "name": "cordova-ios-plugin-no-export-compliance",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This plugin sets ITSAppUsesNonExemptEncryption to false in *-Info.plist file",
   "cordova": {
-    "id": "cordova-plugin-ios-no-export-compliance",
+    "id": "cordova-ios-plugin-no-export-compliance",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mikaoelitiana/cordova-plugin-ios-no-export-compliance.git"
+    "url": "git+https://github.com/mikaoelitiana/cordova-ios-plugin-no-export-compliance.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -25,7 +25,7 @@
   "author": "mikaoelitiana",
   "license": "BSD-3",
   "bugs": {
-    "url": "https://github.com/mikaoelitiana/cordova-plugin-ios-no-export-compliance/issues"
+    "url": "https://github.com/mikaoelitiana/cordova-ios-plugin-no-export-compliance/issues"
   },
-  "homepage": "https://github.com/mikaoelitiana/cordova-plugin-ios-no-export-compliance#readme"
+  "homepage": "https://github.com/mikaoelitiana/cordova-ios-plugin-no-export-compliance#readme"
 }
