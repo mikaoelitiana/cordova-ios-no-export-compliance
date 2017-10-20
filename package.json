@@ -1,16 +1,16 @@
 {
-  "name": "cordova-ios-plugin-no-export-compliance",
-  "version": "0.0.5",
-  "description": "This plugin sets ITSAppUsesNonExemptEncryption to false in *-Info.plist file",
+  "name": "cordova-plugin-ios-no-export-compliance",
+  "version": "1.0.1",
+  "description": "This plugin set ITSAppUsesNonExemptEncryption to false in *-Info.plist file",
   "cordova": {
-    "id": "cordova-ios-plugin-no-export-compliance",
+    "id": "cordova-plugin-ios-no-export-compliance",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mikaoelitiana/cordova-ios-plugin-no-export-compliance.git"
+    "url": "git+https://github.com/Waracle/cordova-plugin-ios-no-export-compliance.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -22,10 +22,10 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "mikaoelitiana",
-  "license": "BSD-3",
+  "author": "Nick Hammond <n.hammond@waracle.com>",
+  "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/mikaoelitiana/cordova-ios-plugin-no-export-compliance/issues"
+    "url": "https://github.com/Waracle/cordova-plugin-ios-no-export-compliance/issues"
   },
-  "homepage": "https://github.com/mikaoelitiana/cordova-ios-plugin-no-export-compliance#readme"
+  "homepage": "https://github.com/Waracle/cordova-plugin-ios-no-export-compliance#readme"
 }
